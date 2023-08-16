@@ -14,5 +14,6 @@ public class Solution {
         System.out.println("0");
         else
         System.out.println("-1");
+
     }
 }
